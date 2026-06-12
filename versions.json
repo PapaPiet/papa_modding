@@ -1,14 +1,14 @@
 {
     "papa_bridge": "1.5.1",
     "papa_drivingschool": "2.1.4",
-    "papa_licensecreator": "1.2.1",
-    "papa_props": "1.0.10",
-    "papa_policestation": "2.0.8",
-    "papa_pharmacy": "1.0.1",
-    "papa_licenseplates_props": "1.2.0",
-    "papa_inspectionstation": "1.0.2",
     "papa_drivingschool_mlo": "1.2.1",
-    "papa_showcase_server_menu": "1.0.0",
+    "papa_inspectionstation": "1.0.2",
+    "papa_licensecreator": "1.2.1",
+    "papa_licenseplates": "1.2.1",
+    "papa_licenseplates_props": "1.2.0",
     "papa_mugshot": "1.0.0",
-    "papa_licenseplates": "1.2.1"
+    "papa_pharmacy": "1.0.1",
+    "papa_policestation": "2.0.8",
+    "papa_props": "1.1.0",
+    "papa_showcase_server_menu": "1.0.0"
 }
