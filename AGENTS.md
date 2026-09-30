@@ -11,6 +11,8 @@ Zu Beginn jeder Sitzung:
    nicht in dieses Repo kopieren, immer frisch abrufen.
 3. `brain_claim("papa_modding", "<woran>")` vor der Arbeit, `brain_release("papa_modding")` am Ende.
 4. Nach der Arbeit: Changelog und Modulnotiz im Brain, `brain_pruefung(...)` für Piets Abnahme.
+5. **Rollen:** Sagt Piet „Du bist jetzt FiveM Coder" (oder `/fivem`), sofort `brain_skill("fivem-coder")` laden und dessen Schritte ausführen
+   (alle Papa-Modding-Repos holen, Regeln, `bridge.md`, `exports.MD`, `versions.json`). Weitere Rollen: GLOBAL.md, Abschnitt „Rollen".
 
 ## 2. Git-Ablauf (verbindlich, Piet 30.09.2026)
 Auslieferungs-Branch dieses Repos: **`main`**. Piet pullt und mergt nie selbst.
