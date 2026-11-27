@@ -1,6 +1,6 @@
 {
     "papa_advancedevidencesystem": "1.1.6",
-    "papa_bridge": "1.6.15",
+    "papa_bridge": "1.6.16",
     "papa_drivingschool": "2.1.8",
     "papa_drivingschool_mlo": "1.2.0",
     "papa_inspectionstation": "1.0.2",
@@ -11,7 +11,7 @@
     "papa_os_core": "0.7.25",
     "papa_os_justice": "0.4.2",
     "papa_os_link": "0.1.15",
-    "papa_os_police": "0.6.8",
+    "papa_os_police": "0.6.5",
     "papa_os_stockmarket": "0.0.9",
     "papa_os_webcreator": "1.0.2",
     "papa_pharmacy": "1.0.1",
